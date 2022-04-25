@@ -45,7 +45,7 @@ background-color: #466C8E;
   display: block;
   width: 100px;
   height: 100px;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
   
@@ -164,7 +164,7 @@ color: black;
   stroke-width: 1;
 }
 
-/* Extra small devices (portrait phones, less than 576px) 
+/* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 720px) {
 
 	.skill-head {
@@ -193,7 +193,7 @@ color: black;
 	}
 }
 
-*/
+
 
 
 
@@ -278,7 +278,7 @@ color: black;
   display: block;
 }
 
-/*@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 720px) {
   body ,.tab-container{
     
     width: 100%;
@@ -287,4 +287,4 @@ color: black;
     
     
   }
-}*/
+}
