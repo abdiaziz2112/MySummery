@@ -37,7 +37,7 @@ background-color: #466C8E;
   margin-left: 7rem;
   margin-top: 1rem;
   border-radius: 50%;
- background-size: 200% 200%;
+ 
   animation: animated-gradient 2s linear infinite;
 }
 
@@ -46,7 +46,7 @@ background-color: #466C8E;
   display: block;
   width: 100px;
   height: 100px;
-  border-radius: 50%;
+  border-radius: 8px;
 }
 
   
