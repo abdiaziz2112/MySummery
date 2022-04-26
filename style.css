@@ -280,11 +280,11 @@ color: black;
 }
 
 @media only screen and (max-width: 320px) {
-  body ,.tab-container{
+  body{
     
     width: 100%;
-    padding: 25rem;
-    font-size: 35rem;
+    padding: 25px;
+    font-size: 35px;
     
     
   }
