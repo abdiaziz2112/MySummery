@@ -250,8 +250,8 @@ color: black;
 
 @media only screen and (max-width: 720px) {
   body,.tab-container{
-    width: 50%;
-    padding:25px;
+    width: 100%;
+    padding:25px 25px ;
   }
   .skill-head {
 		margin: 50px 0;
